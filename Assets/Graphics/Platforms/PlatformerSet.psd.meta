@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 8406380973021a74f8a11fda00f8f0cb
+timeCreated: 1549719000
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlatformerSet_0
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlatformerSet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape:
+    - - {x: -500, y: 234.5}
+      - {x: -500, y: -234.5}
+      - {x: 500, y: -234.5}
+      - {x: 500, y: 234.5}
+    - - {x: 190.77094, y: -3.9637604}
+      - {x: 190.77094, y: 45.025787}
+      - {x: 304.83618, y: 45.025787}
+      - {x: 304.83618, y: -3.9637604}
+    - - {x: 229.04181, y: -208.5883}
+      - {x: 228.72394, y: -30.067825}
+      - {x: 294.80957, y: -30.06784}
+      - {x: 294.80957, y: -208.5883}
+    - - {x: -271.65222, y: 23.33487}
+      - {x: -271.65222, y: 62.12433}
+      - {x: -229.50595, y: 62.12433}
+      - {x: -229.50595, y: 23.33487}
+    - - {x: -221.67346, y: 5.4320374}
+      - {x: -221.67346, y: 43.10257}
+      - {x: -181.39209, y: 43.10257}
+      - {x: -181.39206, y: 5.4320374}
+    - - {x: -278.94666, y: 69.130585}
+      - {x: -278.94666, y: 111.96408}
+      - {x: -238.06015, y: 111.96408}
+      - {x: -238.06015, y: 69.130585}
+    - - {x: 30.613647, y: 64.17569}
+      - {x: 30.613647, y: 90.99359}
+      - {x: 371.58398, y: 90.99359}
+      - {x: 371.58398, y: 64.17569}
+    - - {x: 33.487, y: 90.0358}
+      - {x: 33.487, y: 117.81146}
+      - {x: 371.58398, y: 117.81146}
+      - {x: 371.58398, y: 90.0358}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

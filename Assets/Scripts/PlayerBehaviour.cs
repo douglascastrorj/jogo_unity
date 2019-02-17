@@ -60,6 +60,7 @@ public class PlayerBehaviour : MonoBehaviour {
             //rigidBody.AddForce(new Vector2(0, forcaPulo));
             countJumps++;
             animator.SetBool("jumping", true);
+            GetComponent<AudioSource>().Play();
             
         }
     }
